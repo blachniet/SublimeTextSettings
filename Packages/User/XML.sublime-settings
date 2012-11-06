@@ -1,0 +1,20 @@
+{
+	"extensions":
+	[
+		"xml",
+		"xsd",
+		"xslt",
+		"svg",
+		"csproj",
+		"proj",
+		"nuspec",
+		"xaml",
+		"application",
+		"shfbproj",
+		"targets",
+		"config",
+		"manifest",
+		"tokens",
+		"snippet"
+	]
+}
